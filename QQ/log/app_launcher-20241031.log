@@ -1,0 +1,96 @@
+[192e192c9ca][2024/10/31 15:55:46][INFO] 不存在 /home/guogy/.config/QQ/versions/config.json，将自动创建。内容为：
+{
+  "baseVersion": "3.2.13-28971",
+  "curVersion": "3.2.13-28971",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "28971",
+  "unzipRetryCount": 0
+}
+[192e192c9ca][2024/10/31 15:55:46][INFO] launcherCounts 写入成功: 1
+[192e192c9ca][2024/10/31 15:55:46][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e192c9ca][2024/10/31 15:55:46][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e192c9ca][2024/10/31 15:55:46][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e1e02a81][2024/10/31 17:20:17][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e1e02a81][2024/10/31 17:20:17][INFO] launcherCounts 写入成功: 1
+[192e1e02a81][2024/10/31 17:20:17][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e1e02a81][2024/10/31 17:20:17][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e1e02a81][2024/10/31 17:20:17][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e20fad92][2024/10/31 18:12:11][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e20fad92][2024/10/31 18:12:11][INFO] launcherCounts 写入成功: 2
+[192e20fad92][2024/10/31 18:12:11][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e20fad92][2024/10/31 18:12:11][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e20fad92][2024/10/31 18:12:11][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e22467bd][2024/10/31 18:34:49][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e22467bd][2024/10/31 18:34:49][INFO] launcherCounts 写入成功: 2
+[192e22467bd][2024/10/31 18:34:49][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e22467bd][2024/10/31 18:34:49][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e22467bd][2024/10/31 18:34:49][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e22553b0][2024/10/31 18:35:50][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e22553b0][2024/10/31 18:35:50][INFO] launcherCounts 写入成功: 1
+[192e22553b0][2024/10/31 18:35:50][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e22553b0][2024/10/31 18:35:50][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e22553b0][2024/10/31 18:35:50][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e22791fe][2024/10/31 18:38:17][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e22791fe][2024/10/31 18:38:17][INFO] launcherCounts 写入成功: 2
+[192e22791fe][2024/10/31 18:38:17][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e22791fe][2024/10/31 18:38:17][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e22791fe][2024/10/31 18:38:17][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e23a9714][2024/10/31 18:59:03][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e23a9714][2024/10/31 18:59:03][INFO] launcherCounts 写入成功: 2
+[192e23a9714][2024/10/31 18:59:03][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e23a9714][2024/10/31 18:59:03][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e23a9714][2024/10/31 18:59:03][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e24635a6][2024/10/31 19:11:45][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e24635a6][2024/10/31 19:11:45][INFO] launcherCounts 写入成功: 1
+[192e24635a6][2024/10/31 19:11:45][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e24635a6][2024/10/31 19:11:45][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e24635a6][2024/10/31 19:11:45][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e247ce13][2024/10/31 19:13:29][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e247ce13][2024/10/31 19:13:29][INFO] launcherCounts 写入成功: 1
+[192e247ce13][2024/10/31 19:13:29][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e247ce13][2024/10/31 19:13:29][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e247ce13][2024/10/31 19:13:29][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e250a5ae][2024/10/31 19:23:09][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e250a5ae][2024/10/31 19:23:09][INFO] launcherCounts 写入成功: 2
+[192e250a5ae][2024/10/31 19:23:09][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e250a5ae][2024/10/31 19:23:09][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e250a5ae][2024/10/31 19:23:09][INFO] 
+---------- 成功的分割线 ----------
+
+
+[192e2798cfe][2024/10/31 20:07:49][INFO] /home/guogy/.config/QQ/versions/config.json 存在
+[192e2798cfe][2024/10/31 20:07:49][INFO] launcherCounts 写入成功: 1
+[192e2798cfe][2024/10/31 20:07:49][INFO] /home/guogy/.config/QQ/versions/3.2.13-28971.zip 不存在，无需执行解压操作
+[192e2798cfe][2024/10/31 20:07:49][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[192e2798cfe][2024/10/31 20:07:49][INFO] 
+---------- 成功的分割线 ----------
+
+

@@ -1,0 +1,69 @@
+{
+    "layer": "top",
+    "position": "top",  
+    "spacing": 6,
+    "margin-top": 4,
+    "margin-left": 4,
+    "margin-right": 4,
+    "margin-bottom": 0,
+    "modules-left": ["hyprland/window"],
+    "modules-center": ["hyprland/workspaces"],
+    "modules-right": ["tray", "pulseaudio", "network", "clock"],
+    "hyprland/workspaces": {
+        "persistent-workspaces": {
+            "*": 10
+        },
+        "on-click": "activate",
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+    },
+    "hyprland/window": {
+        "format": "{initialTitle}",
+        "separate-outputs": true
+    },
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+    },
+    "clock": {
+        "interval": 1,
+        "format": "{:%H:%M:%S}",
+        "format-alt": "{:%Y-%m-%d %H:%M:%S}",
+        "tooltip-format": "{calendar}",
+		"timezone": "Asia/Shanghai",
+        "calendar": {
+            "mode"          : "month",
+            "mode-mon-col"  : 3,
+            "weeks-pos"     : "right",
+            "on-scroll"     : 1,
+            "format": {
+                "months":     "<span color='#ffead3'>{}</span>",
+                "days":       "<span color='#ecc6d9'>{}</span>",
+                "weeks":      "<span color='#99ffdd'>W{}</span>",
+                "weekdays":   "<span color='#ffcc66'>{}</span>",
+                "today":      "<span color='#ff6699'><u>{}</u></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "mode",
+            "on-click-forward": "tz_up",
+            "on-click-backward": "tz_down",
+            "on-scroll-up": "shift_up",
+            "on-scroll-down": "shift_down"
+        }
+    },
+    "network": {
+        "interval": 1,
+        "format-wifi": "{essid} ({signalStrength}%)",
+        "format-ethernet": "{ifname}",
+        "format-linked": "No IP ({ifname})",
+        "format-disconnected": "Disconnected",
+        "tooltip-format": "{ifname}: {ipaddr}/{cidr}, Gateway: {gwaddr}",
+        "format-alt": "{ipaddr}/{cidr}"
+    },
+    "pulseaudio": {
+        "scroll-step": 5,
+        "on-click-right": "pavucontrol",
+        "ignored-sinks": ["AudioRelay Virtual Sink", "Recorder Sink"]
+    },
+}

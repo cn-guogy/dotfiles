@@ -1,0 +1,81 @@
+	font = "FiraCode"
+	font-size = 15
+	text-color = #d8d8d8
+
+	prompt-color = #feca88
+	prompt-background = #00000000
+	prompt-background-padding = 0
+	prompt-background-corner-radius = 0
+
+	placeholder-color = #6b6b6bff
+	placeholder-background = #00000000
+	placeholder-background-padding = 0
+	placeholder-background-corner-radius = 0
+
+	input-color = #f8f8f8
+	input-background = #00000000
+	input-background-padding = 0
+	input-background-corner-radius = 0
+
+	default-result-color = #d8d8d8ff
+	default-result-background = #00000000
+	default-result-background-padding = 0, 0
+	default-result-background-corner-radius = 0
+
+	selection-color = #000000
+	selection-background = #d3e4c9
+	selection-background-padding = 0, 4
+	selection-background-corner-radius = 0
+
+	width = 720
+	height = 420
+
+	background-color = #18181899
+
+	outline-width = 0
+
+	outline-color = #080800
+
+	border-width = 1
+
+	border-color = #598da8
+
+	corner-radius = 20
+
+	padding-top = 10
+	padding-bottom = 10
+	padding-left = 24
+	padding-right = 24
+
+	clip-to-padding = true
+
+	scale = true
+
+	anchor = center
+
+	exclusive-zone = -1
+
+	margin-top = 0
+	margin-bottom = 0
+	margin-left = 0
+	margin-right = 0
+	hide-cursor = false
+
+	text-cursor = true
+
+	history = true
+
+	auto-accept-single = false
+
+	hide-input = false
+
+	hidden-character = "*"
+
+	drun-launch = false
+
+	late-keyboard-init = false
+
+	multi-instance = false
+
+	ascii-input = false
+
