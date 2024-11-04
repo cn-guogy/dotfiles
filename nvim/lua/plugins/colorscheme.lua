@@ -1,4 +1,4 @@
 return {
   "LazyVim/LazyVim",
-  opts = { colorscheme = "default" },
+  opts = { colorscheme = "lunaperche" },
 }
