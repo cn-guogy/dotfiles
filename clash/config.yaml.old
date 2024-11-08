@@ -344,7 +344,7 @@ proxies:
   password: e670b274472b2abb
   plugin: ''
   plugin-opts: null
-  port: 17033
+  port: 17050
   server: cn01.mysub.icu
   type: ss
   udp: true
@@ -492,24 +492,38 @@ proxies:
   server: cn01.mysub.icu
   type: ss
   udp: true
-- cipher: aes-128-gcm
+- alterId: 0
+  cipher: auto
+  grpc-opts: null
+  h2-opts: null
+  http-opts: null
   name: id49 - hk
-  password: e670b274472b2abb
-  plugin: ''
-  plugin-opts: null
+  network: tcp
   port: 17038
   server: id49.mysub.icu
-  type: ss
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
   udp: true
-- cipher: aes-128-gcm
+  uuid: eb417237-3491-478d-957d-6ee83a927ea6
+  ws-opts: null
+- alterId: 0
+  cipher: auto
+  grpc-opts: null
+  h2-opts: null
+  http-opts: null
   name: "id51 -  \u9999\u6E2F"
-  password: e670b274472b2abb
-  plugin: ''
-  plugin-opts: null
+  network: tcp
   port: 17038
   server: cn02.mysub.icu
-  type: ss
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
   udp: true
+  uuid: eb417237-3491-478d-957d-6ee83a927ea6
+  ws-opts: null
 - cipher: aes-128-gcm
   name: "id52 - \u9999\u6E2F"
   password: e670b274472b2abb
@@ -693,21 +707,28 @@ proxies:
   server: cn01.mysub.icu
   type: ss
   udp: true
-- cipher: aes-128-gcm
+- alterId: 0
+  cipher: auto
+  grpc-opts: null
+  h2-opts: null
+  http-opts: null
   name: "id91 - 3 - \u9999\u6E2F"
-  password: e670b274472b2abb
-  plugin: ''
-  plugin-opts: null
+  network: tcp
   port: 17038
-  server: cn02.mysub.icu
-  type: ss
+  server: szxg.xn--pss804a00koh0a.xn--fiqs8s
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
   udp: true
+  uuid: eb417237-3491-478d-957d-6ee83a927ea6
+  ws-opts: null
 - cipher: aes-128-gcm
   name: "id91 - 4 - \u65B0\u52A0\u5761"
   password: e670b274472b2abb
   plugin: ''
   plugin-opts: null
-  port: 17038
+  port: 17089
   server: cn02.mysub.icu
   type: ss
   udp: true
@@ -716,8 +737,8 @@ proxies:
   password: e670b274472b2abb
   plugin: ''
   plugin-opts: null
-  port: 17038
-  server: cn02.mysub.icu
+  port: 17036
+  server: szxg.xn--pss804a00koh0a.xn--fiqs8s
   type: ss
   udp: true
 - cipher: aes-128-gcm
