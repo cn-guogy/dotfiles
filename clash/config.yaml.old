@@ -13,7 +13,7 @@ proxies:
   name: "id01 - 1 - \u9999\u6E2F - 91merry"
   network: tcp
   port: 17038
-  server: cn01.mysub.icu
+  server: cn02.mysub.icu
   servername: ''
   skip-cert-verify: false
   tls: false
@@ -29,7 +29,7 @@ proxies:
   name: "id01 - 2 - \u9999\u6E2F"
   network: tcp
   port: 17038
-  server: cn02.mysub.icu
+  server: cn01.mysub.icu
   servername: ''
   skip-cert-verify: false
   tls: false
