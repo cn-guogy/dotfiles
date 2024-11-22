@@ -64,7 +64,7 @@ program = "/usr/bin/fish"
 
 [general]
 # import = ["~/.config/alacritty/base16_default_dark.toml"]
-import = ["~/.config/alacritty/citylights.toml"] 
+#import = ["~/.config/alacritty/citylights.toml"] 
 
 [window]
 opacity = 0.6
